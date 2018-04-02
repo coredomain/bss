@@ -29,7 +29,7 @@ namespace bss.infrastructure
                 return "minus " + Convert(Math.Abs(number));
 
             string noun = "";
-            //divide a wholenumber by a power of 10 add on 0's fo find bigger numbers
+            //divide a wholenumber by power of 10 add on 0's to find bigger numbers
             //Whole number, separate as many decimal digits as there are 0 in the power
             if ((number / 1000000) > 0){
                 noun += Convert(number / 1000000) + " " + nounUnit.FatUni[3] + " ";
@@ -45,7 +45,7 @@ namespace bss.infrastructure
 
             if ((number / 100) > 0){
                 noun += Convert(number / 100) + " " + nounUnit.HundredUnit[0] + " ";
-                //Computes the remainder off 
+                //Computes the remainder of
                 number %= 100;
             }
             if (number > 0){
