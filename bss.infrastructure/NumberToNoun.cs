@@ -68,7 +68,7 @@ namespace bss.infrastructure
 
             var Count = 0;
             var noun = "";
-            //if number lenght not grater than 3
+            //if number lenght not greater than 3
             if (number.Length <= 3)
             {
                 return Convert(int.Parse(number));
