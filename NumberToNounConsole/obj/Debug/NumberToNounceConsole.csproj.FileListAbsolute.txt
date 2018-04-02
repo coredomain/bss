@@ -1,0 +1,11 @@
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\NumberToNounceConsole\bin\Debug\NumberToNounceConsole.exe.config
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\NumberToNounceConsole\bin\Debug\NumberToNounceConsole.exe
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\NumberToNounceConsole\bin\Debug\NumberToNounceConsole.pdb
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\NumberToNounceConsole\bin\Debug\bss.infrastructure.dll
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\NumberToNounceConsole\bin\Debug\bss.infrastructure.pdb
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\NumberToNounceConsole\obj\Debug\NumberToNounceConsole.csprojResolveAssemblyReference.cache
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\NumberToNounceConsole\obj\Debug\NumberToNounceConsole.csproj.CoreCompileInputs.cache
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\NumberToNounceConsole\obj\Debug\NumberToNounceConsole.exe
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\NumberToNounceConsole\obj\Debug\NumberToNounceConsole.pdb
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\NumberToNounceConsole\bin\Debug\bss.Data.dll
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\NumberToNounceConsole\bin\Debug\bss.Data.pdb

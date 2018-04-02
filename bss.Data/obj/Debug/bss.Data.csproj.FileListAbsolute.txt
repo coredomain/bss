@@ -1,0 +1,5 @@
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\bss.Data\bin\Debug\bss.Data.dll
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\bss.Data\bin\Debug\bss.Data.pdb
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\bss.Data\obj\Debug\bss.Data.csproj.CoreCompileInputs.cache
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\bss.Data\obj\Debug\bss.Data.dll
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\bss.Data\obj\Debug\bss.Data.pdb

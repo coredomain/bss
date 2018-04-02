@@ -1,0 +1,8 @@
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\bss.infrastructure\bin\Debug\bss.infrastructure.dll
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\bss.infrastructure\bin\Debug\bss.infrastructure.pdb
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\bss.infrastructure\bin\Debug\bss.Data.dll
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\bss.infrastructure\bin\Debug\bss.Data.pdb
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\bss.infrastructure\obj\Debug\bss.infrastructure.csprojResolveAssemblyReference.cache
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\bss.infrastructure\obj\Debug\bss.infrastructure.csproj.CoreCompileInputs.cache
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\bss.infrastructure\obj\Debug\bss.infrastructure.dll
+E:\WORKS\BeyShoreSolutions\NumbersToNounce\bss.infrastructure\obj\Debug\bss.infrastructure.pdb
