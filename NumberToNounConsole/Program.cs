@@ -25,7 +25,7 @@ namespace NumberToNounConsole
                 {
                     var response = start.Ini(double.Parse(numericValue));
                     Console.WriteLine("");
-                    Console.WriteLine(response);
+                    Console.WriteLine(response + " dollars ");
                     Console.WriteLine();
                     Console.WriteLine(" -- Value Entered: --" + numericValue);
                     Console.WriteLine();
